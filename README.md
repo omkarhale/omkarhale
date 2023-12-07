@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhale](https://github.com/omkarhale)
 
-- 💬 Ask me about **JAVA,JSP & SERVLET**
+- 💬 Ask me about **JAVA,JDBC  & SQL**
 
 - 📫 How to reach me **omkarhale258210@gmail.com**
 
