@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Omkar Karhale</h1>
-<h3 align="center">A passionate  full stack JAVA developer from India</h3>
+<h3 align="center">A passionate java developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarhale&label=Profile%20views&color=0e75b6&style=flat" alt="omkarhale" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **java 21**
+- 👯 I’m looking to collaborate on **java 23**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhale](https://github.com/omkarhale)
 
-- 💬 Ask me about **JAVA,JDBC  & SQL**
+- 💬 Ask me about **JAVA,JDBC & SQL ,Docker**
 
 - 📫 How to reach me **omkarhale258210@gmail.com**
 
