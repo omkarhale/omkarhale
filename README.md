@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarhale&label=Profile%20views&color=0e75b6&style=flat" alt="omkarhale" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working on **Spring Boot**
 
 - 👯 I’m looking to collaborate on **java 23**
 
